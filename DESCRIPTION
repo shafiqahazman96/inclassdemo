@@ -1,14 +1,14 @@
-Package: inclassdemo1
+Package: group5project
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: c(
-    person("Justin", "Lee", email = "justinlee@psu.edu", role = c("aut","cre")),
-    person("Stephane", "Guerrier", role = "aut"),
-    person("Roberto", "Molinari", role = "aut"),
-    person("Matthew", "Beckman", role = "aut")
+    person("Shafiqah", "Azman", email = "sza5348@psu.edu", role = c("aut","cre")),
+    person("Iffah", "Saufi", role = "aut"),
+    person("Lisa", "Fadli", role = "aut"),
+    person("Hanim", "Zulhaimi", role = "aut")
     )
-Maintainer: Justin Lee <justinlee@psu.edu>
+Maintainer: Shafiqah Azman <sza5348@psu.edu>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
